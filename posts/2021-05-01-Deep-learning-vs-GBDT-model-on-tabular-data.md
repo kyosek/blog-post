@@ -6,13 +6,13 @@ However, are deep learning models really better than “traditional” machine l
 The notebooks for this experiment can be found in my kaggle notebooks: [main notebook](https://www.kaggle.com/kyosukemorita/deep-learning-vs-gbdt-model-on-tabular-data) and [TabNet with pre-training](https://www.kaggle.com/kyosukemorita/home-insurance-pretrained-tabnet). This post will omit the explanation of each algorithm as there are already plenty of them :)
 
 ## Table of contents
-1: [Summary of this experiment and code snippet](#Summary-of-this-experiment-and-code-snippet])
+1: [Summary of this experiment](#Summary-of-this-experiment)
 
 2: [Model performance](#Model-performance)
 
 3: [Explainability](#Explainability)
 
-4: [Model selection for deployment in the real-life business](#Model selection for deployment in the real-life business)
+4: [Model selection for deployment in the real-life business](#Model-selection-for-deployment-in-the-real-life-business)
 
 5: [Conclusion](#Conclusion)
 
