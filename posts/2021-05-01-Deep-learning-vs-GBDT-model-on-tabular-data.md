@@ -16,7 +16,7 @@ The notebooks for this experiment can be found in my kaggle notebooks: [main not
 
 5: [Conclusion](#Conclusion)
 
-## Summary of this experiment and code snippet
+## Summary of this experiment
 As mentioned above, this experiment uses the home insurance dataset. This dataset includes home insurance policy data between 2007 and 2012 and there are more than 100 features available regarding home features, owner’s demographics, etc and there are more than 250,000 rows in this data. Using this dataset, this experiment tries to predict whether a home insurance policy is going to lapse. Unfortunately, not all the details of variables in this dataset were given, yet it is good enough to do this experiment.
 
 ## Model performance
